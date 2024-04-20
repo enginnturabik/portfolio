@@ -1,9 +1,4 @@
-<style>
-  body {
-    background-color: #555555; /* Metal gray color */
-    color: #ffffff; /* Text color */
-  }
-</style>
+<div style="background-color: #555555; color: #ffffff; padding: 20px;">
 
 # Your Name
 ![Your Photo](your_photo_link_here) <!-- Add your photo link here -->
@@ -47,3 +42,5 @@
 - Email: [Your email address]
 - LinkedIn: [Your LinkedIn profile link]
 - GitHub: [Your GitHub profile link]
+
+</div>
