@@ -1,11 +1,11 @@
-#Computer Engineering student
-###Education
+# Computer Engineering student
+### Education
 Atilim University
 
-###Work experiance
+### Work experiance
 cyberverse...
 -databse
 -UI
 
-###Projects
+### Projects
 Stopwatch.....
