@@ -1,4 +1,12 @@
+<style>
+  body {
+    background-color: #555555; /* Metal gray color */
+    color: #ffffff; /* Text color */
+  }
+</style>
+
 # Your Name
+![Your Photo](your_photo_link_here) <!-- Add your photo link here -->
 ![Resume](resume_image_link_here)
 
 ## About Me
@@ -39,5 +47,3 @@
 - Email: [Your email address]
 - LinkedIn: [Your LinkedIn profile link]
 - GitHub: [Your GitHub profile link]
-
-
